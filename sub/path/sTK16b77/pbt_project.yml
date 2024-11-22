@@ -1,0 +1,49 @@
+name: hong.cummings
+description: initiative
+version: 7.02.886
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: hongcummings
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:23:23'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:23:23'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:23:23.335563Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '459885667'
+  createdAt: '2024-11-22T20:23:23.335563Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
